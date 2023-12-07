@@ -1,2 +1,4 @@
 # nsk-skin-tones-browser
- brwse by skin tones
+
+https://nuskalore.github.io/nsk-skin-tones-browser.io/
+ browse by skin tones
